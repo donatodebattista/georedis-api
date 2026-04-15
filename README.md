@@ -30,4 +30,4 @@ Necesitas tener instaladas las siguientes herramientas en tu sistema:
 
 3. Acceda a la aplicación
 
-    Abra su navegador en: http://localhost:3000
+    Abra su navegador en: http://localhost:5173
